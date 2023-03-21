@@ -1,20 +1,25 @@
 
 ![](https://komarev.com/ghpvc/?username=zhukovnikolay&style=for-the-badge&label=profile+views&color=blueviolet)
 
-# Сертификаты:
- - Яндекс.Практикум: Специалист по Data Science [RUS](https://github.com/zhukovnikolay/zhukovnikolay/blob/main/yandex_cert_rus.pdf)/[EN](https://github.com/zhukovnikolay/zhukovnikolay/blob/main/yandex_cert_en.pdf)
-
 # Курсы:
 <table>
 <tr>
   <th>Название курса</th>
   <th>Форма обучения</th>
   <th>Статус</th>
+  <th>Сертификат</th>
+</tr> 
+<tr>
+  <td><a href = "http://pm.expert/events/basic-pm-courses/upravlenie-proektami-na-osnove-standarta-pmi-pmbok-7th-edition/">PM EXPERT. Управление проектами на базе PMBOK® 7. Основные инструменты команды проекта</a></td>
+  <td>Дистанционная</td>
+  <td>Завершен</td>
+  <td><a href = "https://github.com/zhukovnikolay/zhukovnikolay/blob/main/pm_course_cert.pdf">RUS</a></td>
 </tr> 
 <tr>
   <td><a href = "https://practicum.yandex.ru/data-scientist/">Яндекс.Практикум: Специалист по Data Science</a></td>
   <td>Дистанционная</td>
   <td>Завершен</td>
+  <td><a href = "https://github.com/zhukovnikolay/zhukovnikolay/blob/main/yandex_cert_rus.pdf">RUS</a>/<a href = "https://github.com/zhukovnikolay/zhukovnikolay/blob/main/yandex_cert_en.pdf">EN</a></td>
 </tr> 
 </table>
 
