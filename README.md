@@ -43,7 +43,7 @@
   <td><a href = "https://leaders2023.innoagency.ru/">Лидеры цифровой трансформации 2023</a></td>
   <td>Агрегатор площадок и услуг креативных индустрий Москвы</td>
   <td>Завершен</td>
-  <td><a href = "https://github.com/zhukovnikolay/ldt_hackaton/blob/main/Certificate_finals.pdf">Финалист (7 место), команда malachite</a></td>
+  <td><a href = "https://github.com/zhukovnikolay/ldt_2023_booking_service/blob/main/Certificate_malachite_7.pdf">Финалист (7 место), команда malachite</a></td>
   <td><a href = "https://github.com/zhukovnikolay/ldt_2023_booking_service">Решение</a></td>
 </tr> 
 <tr>
